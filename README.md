@@ -23,7 +23,8 @@ I'm yuk7.
 - 📫 How to reach me: [e-mail](mailto:yukx00@gmail.com) and [keybase](https://keybase.io/yuk7)
 - ⚡ Fun fact: I'm very lazy. I love to sleep.
 
-![counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
+![Counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=gh%20sponsors&style=flat)](https://github.com/sponsors/yuk7)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuk7&count_private=true&show_icons=true" />
