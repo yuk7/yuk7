@@ -24,7 +24,9 @@ I'm yuk7.
 - ⚡ Fun fact: I'm very lazy. I love to sleep.
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=gh%20sponsors&style=flat)](https://github.com/sponsors/yuk7)
+![GitHub followers](https://img.shields.io/github/followers/yuk7?label=GH%20followers)
+![GitHub User's stars](https://img.shields.io/github/stars/yuk7?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuk7&count_private=true&show_icons=true" />
