@@ -19,9 +19,10 @@ I'm yuk7.
 
 - 🔭 I’m currently working for Web frontend/backend programmer.
 - 🌱 I’m currently learning computer science on college
-- 😄 Pronouns: She/Her
+- 💬 Ask me about anything!
+- 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 📫 How to reach me: [e-mail](mailto:yukx00@gmail.com) and [keybase](https://keybase.io/yuk7)
-- ⚡ Fun fact: I'm very lazy. I love to sleep.
+- ⚡ Fun fact: I'm a full-time daydreamer, programming for fun.
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
 ![GitHub followers](https://img.shields.io/github/followers/yuk7?label=GH%20followers)
