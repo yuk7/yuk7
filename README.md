@@ -21,7 +21,7 @@ I'm yuk7.
 - 🌱 I’m currently learning computer science on college
 - 💬 Ask me about anything!
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
-- 📫 How to reach me: [e-mail](mailto:yukx00@gmail.com) and [keybase](https://keybase.io/yuk7)
+- 📫 How to reach me: [e-mail](mailto:yukx00@gmail.com)/[keybase](https://keybase.io/yuk7)[Telegram](https://t.me/yukx7)
 - ⚡ Fun fact: I'm a full-time daydreamer, programming for fun.
 
 ![Counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
