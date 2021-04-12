@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm yuk7.
 
 - 🔭 I’m currently working for Web frontend/backend programmer.
-- 🌱 I’m currently learning computer science on college
+- 🌱 I’m currently learning computer science
 - 💬 Ask me about anything!
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 📫 How to reach me: [e-mail](mailto:yukx00@gmail.com) / [keybase](https://keybase.io/yuk7) / [Telegram](https://t.me/yukx7)
