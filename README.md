@@ -40,7 +40,7 @@ I'm yuk7.
 
   [![email](https://img.shields.io/badge/Email-yukx00@gmail.com-red?style=flat-square&logo=gmail)](mailto:yukx00@gmail.com)
   [![keybase](https://img.shields.io/badge/Keybase-yuk7-blue?style=flat-square&logo=keybase)](https://keybase.io/yuk7)
-  [![telegram](https://img.shields.io/badge/Telegram-yuk_7-blue?style=flat-square&logo=telegram)](https://t.me/yuk_7)
+  [![telegram](https://img.shields.io/badge/Telegram-yuk__7-blue?style=flat-square&logo=telegram)](https://t.me/yuk_7)
   [![Gist.GitHub:yuk7](https://img.shields.io/badge/Gist-yuk7-red?style=flat-square&logo=GitHub)](https://gist.github.com/yuk7)
   [![gitee](https://img.shields.io/badge/gitee-yuk7-red?style=flat-square&logo=gitee)](https://gitee.com/yuk7)
 </div>
