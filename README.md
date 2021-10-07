@@ -43,6 +43,7 @@ I'm yuk7.
   [![telegram](https://img.shields.io/badge/Telegram-yuk__7-blue?style=flat-square&logo=telegram)](https://t.me/yuk_7)
   [![Gist.GitHub:yuk7](https://img.shields.io/badge/Gist-yuk7-red?style=flat-square&logo=GitHub)](https://gist.github.com/yuk7)
   [![gitee](https://img.shields.io/badge/gitee-yuk7-red?style=flat-square&logo=gitee)](https://gitee.com/yuk7)
+  [![csdn](https://img.shields.io/badge/CSDN-yuk____7-red?style=flat-square&logo=c)](https://blog.csdn.net/yuk__7)
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
