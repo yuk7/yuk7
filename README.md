@@ -46,9 +46,59 @@ I'm yuk7.
   [![csdn](https://img.shields.io/badge/CSDN-yuk____7-red?style=flat-square&logo=c)](https://blog.csdn.net/yuk__7)
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuk7&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuk7" />
-</a>
+<details>
+    <summary><strong>My environments</strong></summary>
+    <details>
+      <summary><strong>Laptop 1</strong></summary>
+      <ul>
+        <li>CPU: AMD Ryzen 7 4700U (max4.1GHz 4MB 8C X86_64)</li>
+        <li>RAM: 16GB (DDR4-2666)</li>
+        <li>SSD: 512GB (NVMe)</li>
+        <li>OS1: Windows 11</li>
+        <li>OS2: Arch Linux</li>
+      </ul>
+    </details>
+    <details>
+      <summary><strong>Desktop 1</strong></summary>
+      <ul>
+        <li>CPU: Intel Core i5-4590 (max3.7GHz 6MB 4C X86_64)</li>
+        <li>RAM: 12GB (DDR3)</li>
+        <li>SSD: 512GB (SATA)</li>
+        <li>HDD: 1TB (SATA 7200rpm)
+        <li>OS1: Windows 10</li>
+        <li>OS2: Arch Linux</li>
+      </ul>
+    </details>
+    <details>
+      <summary><strong>SBC Server 1</strong></summary>
+      <ul>
+        <li>Model: Raspberry Pi 4</li>
+        <li>CPU: Broadcom BCM2711 (max1.5GHz 1MB 4C ARMv8)</li>
+        <li>RAM: 4GB</li>
+        <li>SD: 32GB</li>
+        <li>HDD: 1TB (SATA 7200rpm)</li>
+        <li>OS: Arch Linux ARM AArch64</li>
+      </ul>
+    </details>
+    <details>
+      <summary><strong>SBC Server 2</strong></summary>
+      <ul>
+        <li>Model: Raspberry Pi B</li>
+        <li>CPU: Broadcom BCM2835 (max700MHz 1MB 4C ARMv6)</li>
+        <li>RAM: 512MB</li>
+        <li>SD: 32GB</li>
+        <li>OS: Ubuntu Server armhf</li>
+      </ul>
+    </details>
+    
+</details>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuk7&count_private=true&show_icons=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuk7" />
+  </a>
+</div>
+
