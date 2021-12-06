@@ -93,19 +93,14 @@ I'm yuk7.
     
 </details>
 
-![]()
-
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuk7&theme=github" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuk7&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuk7&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuk7&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuk7&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuk7&theme=github" />
   </a>
 </div>
