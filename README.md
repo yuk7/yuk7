@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm yuk7.
 
 - 🔭 I’m currently working for Web frontend/backend programmer.
-- 🌱 I’m currently learning computer science at college
+- 🌱 I’m currently learning computer science at college.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 📫 How to reach me: [e-mail](mailto:yukx00@gmail.com) / [Keybase](https://keybase.io/yuk7) / [Telegram](https://t.me/yuk_7)
@@ -27,7 +27,6 @@ I'm yuk7.
 
 
 <div align="center">
-  
   ![Counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
   ![GitHub User's stars](https://img.shields.io/github/stars/yuk7?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
   [![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7)
@@ -84,7 +83,7 @@ I'm yuk7.
       <summary><strong>SBC Server 2</strong></summary>
       <ul>
         <li>Model: Raspberry Pi B</li>
-        <li>CPU: Broadcom BCM2835 (max700MHz 1MB 4C ARMv6)</li>
+        <li>CPU: Broadcom BCM2835 (max700MHz 1MB 1C ARMv6)</li>
         <li>RAM: 512MB</li>
         <li>SD: 32GB</li>
         <li>OS: Ubuntu Server armhf</li>
@@ -93,12 +92,19 @@ I'm yuk7.
     
 </details>
 
+![]()
+
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuk7&count_private=true&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuk7" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuk7&theme=github" />
   </a>
 </div>
 
+<div align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuk7&theme=github" />
+  </a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yuk7&theme=github" />
+  </a>
+</div>
