@@ -60,6 +60,15 @@ I'm yuk7.
       </ul>
     </details>
     <details>
+      <summary><strong>Laptop 2</strong></summary>
+      <ul>
+        <li>CPU: Intel Pentium N4200(max2.5GHz 2MB 4C X86_64)</li>
+        <li>RAM: 8GB (LPDDR4-2133)</li>
+        <li>SSD: 64GB (eMMC)</li>
+        <li>OS1: Arch Linux</li>
+      </ul>
+    </details>
+    <details>
       <summary><strong>Desktop 1</strong></summary>
       <ul>
         <li>CPU: Intel Core i5-4590 (max3.7GHz 6MB 4C X86_64)</li>
