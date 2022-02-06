@@ -71,12 +71,13 @@ I'm yuk7.
     <details>
       <summary><strong>Desktop 1</strong></summary>
       <ul>
-        <li>CPU: Intel Core i5-4590 (max3.7GHz 6MB 4C X86_64)</li>
-        <li>RAM: 12GB (DDR3)</li>
-        <li>SSD: 512GB (SATA)</li>
+        <li>CPU: AMD Ryzen 7 2700 (max4.1GHz 16MB 8C X86_64)</li>
+        <li>RAM: 32GB (DDR4)</li>
+        <li>SSD1: 1TB (NVMe)</li>
+        <li>SSD1: 512GB (SATA)</li>
         <li>HDD: 1TB (SATA 7200rpm)
-        <li>OS1: Windows 10</li>
-        <li>OS2: Arch Linux</li>
+        <li>OS1: Arch Linux</li>
+        <li>OS2: Windows 11</li>
       </ul>
     </details>
     <details>
