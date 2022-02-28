@@ -28,9 +28,8 @@ I'm yuk7.
 
 <div align="center">
   
-  ![Counter](https://visitor-badge.glitch.me/badge?page_id=yuk7.visitor-badge)
-  ![GitHub User's stars](https://img.shields.io/github/stars/yuk7?affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
-  [![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat)](https://github.com/sponsors/yuk7)
+  ![GitHub User's stars](https://img.shields.io/github/stars/yuk7?style=flat-square&affiliations=OWNER%2CCOLLABORATOR&label=GH%20stars)
+  [![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat-square)](https://github.com/sponsors/yuk7)
 
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
   [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
@@ -42,6 +41,7 @@ I'm yuk7.
   [![email](https://img.shields.io/badge/Email-yukx00@gmail.com-red?style=flat-square&logo=gmail)](mailto:yukx00@gmail.com)
   [![keybase](https://img.shields.io/badge/Keybase-yuk7-blue?style=flat-square&logo=keybase)](https://keybase.io/yuk7)
   [![telegram](https://img.shields.io/badge/Telegram-yuk__7-blue?style=flat-square&logo=telegram)](https://t.me/yuk_7)
+  [![paypal](https://img.shields.io/badge/PayPal-yuk77-blue?style=flat-square&logo=paypal)](https://paypal.me/yuk77)
   [![Gist.GitHub:yuk7](https://img.shields.io/badge/Gist-yuk7-red?style=flat-square&logo=GitHub)](https://gist.github.com/yuk7)
   [![gitee](https://img.shields.io/badge/gitee-yuk7-red?style=flat-square&logo=gitee)](https://gitee.com/yuk7)
   [![csdn](https://img.shields.io/badge/CSDN-yuk____7-red?style=flat-square&logo=c)](https://blog.csdn.net/yuk__7)
