@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm yuk7.
 
-- 🌱 I’m currently learning Kotlin, Swift, Go, Linux, Kubernates.
+- 🌱 I’m currently learning Kotlin, Swift, Go, Android, Kubernates.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
 - 📫 How to reach me: [e-mail](mailto:yukx00@gmail.com) / [Keybase](https://keybase.io/yuk7) / [Telegram](https://t.me/yuk_7)
