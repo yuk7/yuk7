@@ -70,7 +70,7 @@ I'm yuk7.
     <details>
       <summary><strong>Desktop 1</strong></summary>
       <ul>
-        <li>CPU: AMD Ryzen 7 2700 (max4.1GHz 16MB 8C X86_64)</li>
+        <li>CPU: AMD Ryzen 7 3700X (max4.4GHz 32MB 8C X86_64)</li>
         <li>RAM: 32GB (DDR4)</li>
         <li>SSD1: 1TB (NVMe)</li>
         <li>SSD1: 512GB (SATA)</li>
