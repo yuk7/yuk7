@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 I'm yuk7.
 
+- 🔭 I’m currently working on Smartphone Apps project
 - 🌱 I’m currently learning Kotlin, Swift, Go, Android, Kubernetes.
 - 💬 Ask me about anything!
 - 😄 Pronouns: [she/her/hers](https://pronoun.is/she)
