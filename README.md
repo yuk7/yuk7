@@ -1,7 +1,3 @@
-<h1 align="center">
-<img src="https://github.com/yuk7/yuk7/assets/29954265/78c22385-798e-463a-bc9e-ccf24be150a0" alt="yuk7">
-</h1>
-
 ### Hi there 👋
 
 <!--
