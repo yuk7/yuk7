@@ -30,9 +30,9 @@ I'm yuk7.
   [![GitHub Sponsors](https://img.shields.io/github/sponsors/yuk7?label=GH%20sponsors&style=flat-square)](https://github.com/sponsors/yuk7)
 
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft)](https://www.microsoft.com)
-  [![OS:Android13](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
-  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visualstudiocode)](https://code.visualstudio.com/)
+  [![OS:Windows11](https://img.shields.io/badge/OS-Windows11-blue?style=flat-square)](https://www.microsoft.com)
+  [![OS:Android15](https://img.shields.io/badge/OS-Android15-green?style=flat-square&logo=android)](https://www.android.com/)
+  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square)](https://code.visualstudio.com/)
   [![IDE:IDEA](https://img.shields.io/badge/IDE-IDEA-magenta?style=flat-square&logo=IntellijIDEA)](https://www.jetbrains.com/idea/)
   [![DE:KDE](https://img.shields.io/badge/DE-KDE-blue?style=flat-square&logo=KDE)](https://kde.org)
 
@@ -42,7 +42,7 @@ I'm yuk7.
   [![paypal](https://img.shields.io/badge/PayPal-yuk77-blue?style=flat-square&logo=paypal)](https://paypal.me/yuk77)
   [![Gist.GitHub:yuk7](https://img.shields.io/badge/Gist-yuk7-red?style=flat-square&logo=GitHub)](https://gist.github.com/yuk7)
   [![gitee](https://img.shields.io/badge/gitee-yuk7-red?style=flat-square&logo=gitee)](https://gitee.com/yuk7)
-  [![csdn](https://img.shields.io/badge/CSDN-yuk____7-red?style=flat-square&logo=c)](https://blog.csdn.net/yuk__7)
+  [![csdn](https://img.shields.io/badge/CSDN-yuk____7-red?style=flat-square&logo=csdn)](https://blog.csdn.net/yuk__7)
 </div>
 
 <div align="center">
